@@ -3,4 +3,8 @@ main .banner {
     padding: 1em;
     color: #000;
   }
+
+main .banner.wusel {
+    background-color: #0f0;
+}
   
